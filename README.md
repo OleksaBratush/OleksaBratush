@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently 👨🏻‍💻 coding. Or 😴 sleeping. Or 😋 eating. All of this in the ♾️ loop 😊
-- 💬 Ask me about TypeScript, React, React Native, Nest.js, Next.js, Node.js, Express.js
+- 💬 Ask me about TypeScript, React, React Native, Nest.js, Next.js, Node.js, Express.js, Smart contract, DApps, Web3.js...
 - 📫 How to reach me: by <a href="mailto:oleksandr.bratushchyk.khoma@gmail.com">email</a>
 - ⚡ Fun fact: I don't swim even I like to travel to ocean, seas and islands
 
